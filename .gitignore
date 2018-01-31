@@ -1,0 +1,7 @@
+.vscode
+Assembly*
+*.sln
+Assets/Plugins/*
+Library
+ProjectSettings
+Temp
